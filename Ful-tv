@@ -53,24 +53,7 @@ http://bit.ly/2zTr8vq
 http://bit.ly/2nCfkbb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png" group-title="DEPORTES", Red MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/25229/240/default.jpg" group-title="DEPORTES", NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9095.png" group-title="DEPORTES", NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png" group-title="DEPORTES", Deportes de Omán
-http://38.96.148.30:1935/live/omantv2//playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png" group-title="DEPORTES", Pac 12 Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png" group-title="DEPORTES", Pac 12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-losangeles-logo.png" group-title="DEPORTES", Pac 12 Los Ángeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-mountain-logo.png" group-title="DEPORTES", Pac 12 Montaña
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-oregon-logo.png" group-title="DEPORTES", Pac 12 Oregón
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png" group-title="DEPORTES", Pac 12 Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2012/02/porto-canal.jpg" group-title="DEPORTES", Porto Canal
 http://bit.ly/2BgfHP8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UVADCY9JfY0/VpP8gE0QVHI/AAAAAAAABT8/EjLn7BsvXtk/s1600/rmtv.png" group-title="DEPORTES", Real Madrid TV
