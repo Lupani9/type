@@ -144,8 +144,6 @@ http://bit.ly/2zSTthY
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="ENTRETENIMIENTO", Moda Mundial
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =INFANTIL=
-https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="INFANTIL", Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fWXpnw/Sin_t_tulo_3.png" group-title="INFANTIL", CARTOON NETWORT
@@ -170,18 +168,7 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSICA", Music Choice
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.isshingroup.com/wp-content/uploads/2016/08/jpop.jpg" group-title="MÚSICA", Música Japón
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://impresalavoro.org/wp-content/uploads/2016/06/RMC.jpg" group-title="MUSICA", Rádio Monte Carlo TV
-http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-hits-logo-54F364DFB3-seeklogo.com.png" group-title="MUSICA", MTV HITS
-http://bit.ly/2BUG4XA
-#EXTINF:-1 tvg-logo="http://www.tvnewscheck.com/marketshare/wp-content/uploads/2017/07/logo.png" group-title="MÚSICA", RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-P6p7967q0RM/U5k_TMCDSfI/AAAAAAAADqY/iWxoySn9wHk/s1600/TELEMUSICA.jpg" group-title="MUSICA", Telemúsica
-http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://uno1one.files.wordpress.com/2009/07/teleritmo-logo2.jpg" group-title="MUSICA", Teleritmo
-http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.=cloudfront.net&proto http&time=1486351096793
+%2Fteleritmo&es=d34z3o74zqnctr.=cloudfront.net&proto http&time=1486351096793
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/f/fullradios/radio.toplatino.logo.png" group-title="MUSICA", Top Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/uk/VIBEE.png" group-title="MÚSICA", Vibee
@@ -211,104 +198,7 @@ http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa%C3%B1ol.jpg" group-title="NOTICIAS", RT English
 http://bit.ly/2iLCJC2
 /carolinatv.smil/playlist.m3u8
-#EXTINF:-1 grupo-titulo="CHILE", ITV Patagonia
-http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/playlist.m3u8
-#EXTINF:-1 grupo-título="CHILE", Niu TV
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
-#EXTINF:-1 grupo-titulo="CHILE", Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:-1 grupo-titulo="CHILE", Televida HD
-http://unlimited5-cl.dps.live/tlvida/tlvida.smil/tlvida/livestream1/chunks.m3u8
-#EXTINF:-1 grupo-titulo="CHILE", UesTV
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 grupo-titulo="CHILE", VTV Aconcagua
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1 grupo-titulo="CHILE", VTV Viña del Mar
-http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =COLOMBIA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 grupo-title="COLOMBIA", Canal Tro
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
-#EXTINF:-1 grupo-título="COLOMBIA", 12CTV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0022&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 grupo-titulo="COLOMBIA", 49 TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0013&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 grupo-title="COLOMBIA", Cable Noticias
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 grupo-titulo="COLOMBIA", Cali TV
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 grupo-title="COLOMBIA", Canal Capital 2 HD
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", Cristovisión
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0004&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 grupo-titulo="COLOMBIA", Teleantioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 grupo-titulo="COLOMBIA", Teleamiga
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 grupo-title="COLOMBIA", Telecaribe
-http://bit.ly/2iCHT33
-#EXTINF:-1 grupo-titulo="COLOMBIA", Teleislas
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA", Telemedellín
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
-#EXTINF:-1 group-title="COLOMBIA", Telepacífico
-http://bit.ly/2nA72R4
-#EXTINF:-1 grupo-titulo="COLOMBIA", Trendy Tv
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =COSTA RICA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 grupo-titulo="COSTA RICA", SINART 13
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICR0008&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES-CRICA.png
-#EXTINF:-1 grupo-titulo="COSTA RICA", Telered
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:-1 grupo-título="COSTA RICA", TeleUno TV
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =CUBA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 grupo-título="CUBA", TV Martí
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICU0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES--CUBA.png
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =ECUADOR=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 grupo-titulo="ECUADOR", Ecuador Tv
-http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
-#EXTINF:-1 group-title="ECUADOR", Orovisión
-http://37.187.108.127:554/ecuadortv01/tv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 grupo-titulo="ECUADOR", TC
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1 grupo-titulo="ECUADOR", TELEVISORES
-http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
-#EXTINF:-1 grupo-titulo="ECUADOR", UCSG
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-#EXTINF:-1 grupo-titulo="ECUADOR", Unsin TV 25
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVEC0007&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESECUADO.png
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =EL SALVADOR=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 grupo-title="EL SALVADOR", Canal 23
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =ESPAÑA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 grupo-titulo="ESPAÑA", 324
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", Aragón Tv
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", Castilla-La Mancha
-http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", Correo TV
-http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-#EXTINF:-1 group-title="ESPAÑA", EL DÍA TV España
-http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", EXTREMADURA TV
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", HuelvaTv
-http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
-#EXTINF:-1 grupo-titulo="ESPAÑA", IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 grupo-title="ESPAÑA", LEVANTE TV
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+/levantetvlive/playlist.m3u8
 #EXTINF:-1 grupo-title="ESPAÑA", Navarra Televisión
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 #EXTINF:-1 grupo-title="ESPAÑA", Neox
@@ -392,27 +282,7 @@ http://m.mediastream.pe/vv_willax/livestream/master.m3u8
 #EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =PUERTO RICO=
 https://www.youtube.com/c/MIKEDOMOIPTV
 #EXTINF:-1 grupo-título="PUERTO RICO", PRTV 43
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVPR0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES-PRICO.png
-#EXTINF:-1 grupo-title="PUERTO RICO", Teleoro Canal 13
-http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
-#EXTINF:-1 grupo-titulo="z-omitir",[COLOR AMARILLO] [/COLOR] =REPUBLICA DOMINICANA=
-https://www.youtube.com/c/MIKEDOMOIPTV
-#EXTINF:-1 grupo-title="REPUBLICA DOMINICANA", ANTENA 7
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b948304.m3u8
-#EXTINF:-1 grupo-title="REPUBLICA DOMINICANA", Canal 25
-http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
-#EXTINF:-1 grupo-título="REPÚBLICA DOMINICANA", CDN 37
-http://bit.ly/2uONqag
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", COLOR VISION CANAL 9
-http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
-#EXTINF:-1 grupo-titulo="REPUBLICA DOMINICANA", Digital 15
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", MICROVISION CANAL 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA", PERAVIA VISION
-http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
-#EXTINF:-1 grupo-titulo="REPUBLICA DOMINICANA", Telecontacto 57
-http://bit.ly/2B3g2AI
+
 #EXTINF:-1 grupo-titulo="REPUBLICA DOMINICANA", Telemicro 5
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 #EXTINF:-1 grupo-título="REPÚBLICA DOMINICANA", Telenord 10 TV
