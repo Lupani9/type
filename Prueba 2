@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1
+https://linear-431.frequency.stream/431/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="CULTURA", Planeta Animal HD
+http://bit.ly/2j4EeLQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Discovery_Turbo.svg/1024px-Discovery_Turbo.svg.png" group-title="CULTURA", Descubrimiento Turbo
+http://bit.ly/2zCTjdT
+#EXTINF:-1 tvg-logo="https://imgur.com/TFN6MB9.png" group-title="CULTURA", GarageTv
+http://bit.ly/2zGYyMN
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/h2-tv-logo-CCC836E2F8-seeklogo.com.png" group-title="CULTURA", H2
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb543d177b6c618d84cb3b6fcef046a3f99753fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505d6cdb73ba0911cfde7ba84146394e28ce87d31bd8e80c08bbd8082b2bad7a1c51f51e52963c4353c9f9160db238b7520c07a75c3d017cdeeb49b50d2aa1fd76976f75d2f688714e280904c0444d83f51ce0a6be035adc72a1a16f10d77018b29d43c8d702bb9ed15d99419877f2158defafd98a4cd796f232ff06f03d460d712ad7d32fd18d0eb4de9e3061987765401c07e7eec2af4b38cb464558feb29bbe32fd409e8f26d06362eb328825eb5822893a68dd837e85efdfef47532cd6bc31031481956e0e665749d055f4b7fdd5335d94f3067144c817b34a83f9009cb970a8ca1897f453ed17a88d59b2f269b6bcc8e7c3b9804bd64598859cf94cbf3fa6d9a3f11502e339aa7f81a58afdb36b306c49a8885cc7879672396f4ebc5a3fbed27a94d4918ad3023a8535550aa828f5520b79d46f2c5deb29eb953568c9775ade7507cf7d75d812ade86cd7b2d2e9027484ee9663b13eb6e55d83a74cf93f6c0242a4e4651f645c6ddceb51083252ca51ab8699b6395a56acbfe6d6f47e144b791b5b078ea2c0759885cf605d20c44135697b1e58c24a8629fc085b0f23cc5182fd5a3ad548747bb1f5710c093dd6e5be838edacf04867ed5ceef30606e0a34f360535403b9d1ac57f92a44777e2fe25e3439d8753978deb0c387ccd56fd69772e344799729cb600d1153ee73/55/848x480_1249336/index.m3u8
+#EXTINF:-1 tvg-logo="http://theaerialfilmingcompany.com/wp-content/uploads/2016/06/nat-geo-logo.jpg" group-title="CULTURA", National Geographic
+http://bit.ly/2kuI5p9
+#EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", Silence TV
+http://bit.ly/2wxlPQD
+#EXTINF:-1 tvg-logo="https://imgur.com/wRQGvEk.png" group-title="CULTURA", Sun Channel
+http://bit.ly/2A5SXQR
