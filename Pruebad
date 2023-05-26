@@ -1,0 +1,9 @@
+p-rMLKe_edyJcpFzANEcC4x9Q0pBuSc4U683hCyCLdSPh-v7P2yK6d4kVTaohzYhORKym4glF8tpSvAJ2hQ3d001k_9ja9nIuPwVX4-spAkXol_-U_EWz_RA6owjwdEgjgKzDYFjevD4aIJKMg29RGiuBuY2r3Z1w2WeFhDkeGXIxVuNH7GwY7amTIfA-VwR66uUI6veLmfBihXFylgZDXkz8ievisRoMquqh5B3ZJEKio66uIAEqCWV1LXdlc3QtMjDUBg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFLCn1L/Logoexitosa.png" group-litle="PERU", EXITOSA
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb60Rdk/images-2.jpg" group-litle="PERU",VIA [SD]
+https://multimedia.tmcreativos.com:1936/cablerasvia/cablerasvia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L6GsKy2/images.png" group-litle="PERU" AMERICA [HD]
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_200.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=NwwIp3nSCnatQfGWlPD2Wu0195KMgACt&sid=NdcLW6uHLeICB2IGJbzg77DIexKSjeXu&pid=eWs4W1wTU2iLQzdI31OGKwoeqGkis0oe&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&without_cookies=false&listenerid=&dnt=true&access_token=wkSsvifOiU5spHQ1Xi3uiF8WVo6jzNR5LLvIs6nwiwcMAG6GCh3rBpGG6IWNQXWTOAkcR1OeOYc&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1685196313561&ot=iHn_ifhw1vwxAHqsgIxH9g&proto=https&pz=us
+#EXTINF:0, Comedy Central [FHD]
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
