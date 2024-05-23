@@ -88,8 +88,7 @@ http://181.205.77.118:4849/play/CH102
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="Peru",CreoTV
 https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Argentina",Cronica TV
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.Peli" tvg-logo="https://i.ibb.co/qBjRTwR/images-1.jpg" group-title="Peliculas",Cinemax
 http://181.205.77.118:4849/play/CH33
 #EXTINF:-1 tvg-id="Cinecanal.Peli" tvg-logo="https://i.ibb.co/dfQXG8d/descarga-4.png" group-title="Peliculas",Cinemax
