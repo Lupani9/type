@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Autentica Televisión 
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,RIBEREÑA
 http://38.137.198.71:9000/play/a053/index.m3u8
 #EXTINF:-1,Ucayalina tv
@@ -11,3 +13,5 @@ https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1,BNB pucallpa
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
+#EXTINF:-1,Antares Televisión 
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
