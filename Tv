@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,RIBEREÑA
 http://38.137.198.71:9000/play/a053/index.m3u8
+#EXTINF:-1,Ucayalina tv
+http://stream.fuegoplayer.com/ucayalitv/index.m3u8
+#EXTINF:-1,pucallpa televisión
+https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
+#EXTINF:-1,pucallpa tv oriental
+https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+#EXTINF:-1,pucallpa canal 49
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+#EXTINF:-1,BNB pucallpa
+https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
