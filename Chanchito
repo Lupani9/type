@@ -22,7 +22,7 @@ http://170.231.55.178:9001/play/a00e
 #EXTINF:-1 tvg-id="ANT" tvg-name="ANT" tvg-logo="https://i.ibb.co/zrYN9cQ/images-1.png" group-title="Peru",ANT
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://i.ibb.co/L6GsKy2/images.png" group-title="Peru",America
-http://161.132.112.34:9000/play/a05o/index.m3u8
+http://200.121.48.5:8081/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="America py" tvg-name="America py" tvg-logo="https://i.ibb.co/zGdXV2M/images-2.jpg" group-title="Argentina",America py
 http://167.250.180.251:4001/play/a0ip/index.m3u8
 #EXTINF:-1 tvg-id="ATB" tvg-name="ATB" tvg-logo="https://i.ibb.co/F4NH0Ln/descarga-4.jpg" group-title="Bolivia",ATB
