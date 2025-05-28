@@ -2,16 +2,26 @@
 #EXTINF:-1,Autentica Televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,RIBEREÑA
-https://v4.tustreaming.cl/atmtv/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
 #EXTINF:-1,Ucayalina tv
-https://video.agenciastreaming.com:3959/live/utvlive.m3u8
-#EXTINF:-1,pucallpa televisión
-https://vdo.panelstreaming.live:3596/live/ptvlive.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
+#EXTINF:-1,television 49
+https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/chunks.m3u8
 #EXTINF:-1,pucallpa tv oriental
 https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 #EXTINF:-1,pucallpa canal ya
-https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/chunks.m3u8
 #EXTINF:-1,BNB pucallpa
-https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/bnb/chunks.m3u8
 #EXTINF:-1,Antares Televisión 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,VIA
+https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
+#EXTINF:-1,CONECTADOS
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_360p/chunks.m3u8
+#EXTINF:-1,NATIVA
+https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_360p/chunks.m3u8
+#EXTINF:-1,CREO
+https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
+#EXTINF:-1,ANIME ONEGAI
+https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_360p/chunks.m3u8
