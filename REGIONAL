@@ -23,5 +23,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_360p
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_360p/chunks.m3u8
 #EXTINF:-1,CREO
 https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
+#EXTINF:-1,amazona tv
+https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
+#EXTINF:-1,tacna tv
+https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
+#EXTINF:-1,nzk tv
+https://live-evg25.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8
+#EXTINF:-1,creo latina tv
+https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8
 #EXTINF:-1,ANIME ONEGAI
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_360p/chunks.m3u8
