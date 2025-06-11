@@ -1,14 +1,40 @@
 #EXTM3U
+#EXTINF:-1,America tv
+https://live-evg4.tv360.bitel.com.pe/bJXyeVVEkYjx4gIBrFqSHg/1749738774/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
 #EXTINF:-1,Autentica Televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1,atv
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_480p/chunks.m3u8
+#EXTINF:-1,creo latina tv
+https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8
+#EXTINF:-1,CREO
+https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
+#EXTINF:-1,exitosa
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_480p/chunks.m3u8 
+#EXTINF:-1,karibeña
+https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+#EXTINF:-1,latina
+https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/chunks.m3u8
+#EXTINF:-1,la tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8 
+#EXTINF:-1,pbo
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
 #EXTINF:-1,RIBEREÑA
 https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
+#EXTINF:-1,global
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_480p/chunks.m3u8 
+#EXTINF:-1,willax
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_360p/chunks.m3u8
+#EXTINF:-1,sol tv
+https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
+#EXTINF:-1,super canal
+https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
 #EXTINF:-1,Ucayalina tv
 https://live-evg25.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 #EXTINF:-1,television 49
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/chunks.m3u8
-#EXTINF:-1,pucallpa tv oriental
-https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
+#EXTINF:-1,tv peru
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_480p/chunks.m3u8
 #EXTINF:-1,pucallpa canal ya
 https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/chunks.m3u8
 #EXTINF:-1,BNB pucallpa
@@ -21,15 +47,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_360p/chunks.m3u8
 #EXTINF:-1,NATIVA
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_360p/chunks.m3u8
-#EXTINF:-1,CREO
-https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
 #EXTINF:-1,amazona tv
 https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
 #EXTINF:-1,tacna tv
 https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
 #EXTINF:-1,nzk tv
 https://live-evg25.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8
-#EXTINF:-1,creo latina tv
-https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8
 #EXTINF:-1,ANIME ONEGAI
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_360p/chunks.m3u8
