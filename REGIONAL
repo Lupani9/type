@@ -55,3 +55,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8
 #EXTINF:-1,ANIME ONEGAI
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_360p/chunks.m3u8
+#EXTINF:-1,FMH kids
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/chunks.m3u8
+#EXTINF:-1,FMH movie
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/chunks.m3u8
+#EXTINF:-1,HOY PERU TV
+https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
