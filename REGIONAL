@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Anime kids
-https://live-evg25.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=14711183
 #EXTINF:-1,Autentica Televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1,atv
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_480p/chunks.m3u8
+#EXTINF:-1,trivu
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1,creo latina tv
 https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8
 #EXTINF:-1,CREO
