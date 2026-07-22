@@ -42,25 +42,210 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bnb/chunks.m3u8
 #EXTINF:-1,Televisión tarapoto
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1,VIA
-https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1,CONECTADOS
 https://live-evg18.tv360.bitel.com.pe/bitel/conectado2/chunks.m3u8
 #EXTINF:-1,NATIVA
-https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=10750575
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1,AMAZONICA TV
-https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
+https.com.pe/bitel/amazonicatvSR
 #EXTINF:-1,tacna tv
 https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
 #EXTINF:-1,nzk tv
-https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=3894833
+https://eu1.servers10.com:8081/8258/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NEON tv
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=5175710
 #EXTINF:-1,ANIME ONEGAI
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_360p/chunks.m3u8
 #EXTINF:-1,Cosmo tv
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:-1,FMH movie
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/chunks.m3u8
+#EXTINF:-1,Vía altomayo
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,visión sur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
+
+#EXTINF:-1 group-title="-",A&E HD
+http://8.242.175.210:8000/play/a0mt
+#EXTINF:-1 group-title="-",AE Mundo
+http://8.242.175.210:8000/play/a0vg
+#EXTINF:-1 group-title="-",AMC HD
+http://8.242.175.210:8000/play/a0n2
+#EXTINF:-1 group-title="-",ATV
+http://8.242.175.210:8000/play/a0sp
+#EXTINF:-1 group-title="-",AXN HD
+http://8.242.175.210:8000/play/a0q0
+#EXTINF:-1 group-title="-",America TV PY
+http://8.242.175.210:8000/play/a0v7
+#EXTINF:-1 group-title="-",Animal Planet
+http://8.242.175.210:8000/play/a0uc
+#EXTINF:-1 group-title="-",BETHEL TV
+http://8.242.175.210:8000/play/a0pn
+#EXTINF:-1 group-title="-",Baby First
+http://8.242.175.210:8000/play/a0u7
+#EXTINF:-1 group-title="-",CHV
+http://8.242.175.210:8000/play/a0ul
+#EXTINF:-1 group-title="-",CNN Espanol
+http://8.242.175.210:8000/play/a0uj
+#EXTINF:-1 group-title="-",Canal 13 
+http://8.242.175.210:8000/play/a0n4
+#EXTINF:-1 group-title="-",Canal 24 Horas
+http://8.242.175.210:8000/play/a0qr
+#EXTINF:-1 group-title="-",Canal Caracol
+http://8.242.175.210:8000/play/a0sb
+#EXTINF:-1 group-title="-",Canal Las Estrellas
+http://8.242.175.210:8000/play/a0vi
+#EXTINF:-1 group-title="-",Canal RCN
+http://8.242.175.210:8000/play/a0sc
+#EXTINF:-1 group-title="-",Canal TUVES
+http://8.242.175.210:8000/play/a0q8
+#EXTINF:-1 group-title="-",Canal del Congreso
+http://8.242.175.210:8000/play/a0se
+#EXTINF:-1 group-title="-",Capital
+http://8.242.175.210:8000/play/a0sj
+#EXTINF:-1 group-title="-",Cartoon Network HD
+http://8.242.175.210:8000/play/a0tj
+#EXTINF:-1 group-title="-",Cinecanal
+http://8.242.175.210:8000/play/a0tx
+#EXTINF:-1 group-title="-",City TV
+http://8.242.175.210:8000/play/a0si
+#EXTINF:-1 group-title="-",Comedy Central HD
+http://8.242.175.210:8000/play/a0mu
+#EXTINF:-1 group-title="-",DHE HD
+http://8.242.175.210:8000/play/a0qv
+#EXTINF:-1 group-title="-",De Pelicula
+http://8.242.175.210:8000/play/a0qb
+#EXTINF:-1 group-title="-",Discovery Kids
+http://8.242.175.210:8000/play/a0ui
+#EXTINF:-1 group-title="-",Discovery World HD
+http://8.242.175.210:8000/play/a0n8
+#EXTINF:-1 group-title="-",Disney Channel
+http://8.242.175.210:8000/play/a0ua
+#EXTINF:-1 group-title="-",Disney Jr
+http://8.242.175.210:8000/play/a0up
+#EXTINF:-1 group-title="-",E Entertainment
+http://8.242.175.210:8000/play/a0ue
+#EXTINF:-1 group-title="-",ECDF SD
+http://8.242.175.210:8000/play/a0vc
+#EXTINF:-1 group-title="-",ESPN 
+http://8.242.175.210:8000/play/a0uv
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://8.242.175.210:8000/play/a0qj
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://8.242.175.210:8000/play/a0s6
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://8.242.175.210:8000/play/a0s9
+#EXTINF:-1 group-title="-",ESPN 5 HD
+http://8.242.175.210:8000/play/a0s5
+#EXTINF:-1 group-title="-",ESPN 6 HD
+http://8.242.175.210:8000/play/a0s3
+#EXTINF:-1 group-title="-",ESPN 7
+http://8.242.175.210:8000/play/a0ug
+#EXTINF:-1 group-title="-",Ecuavisa
+http://8.242.175.210:8000/play/a0ti
+#EXTINF:-1 group-title="-",Enlace
+http://8.242.175.210:8000/play/a0u5
+#EXTINF:-1 group-title="-",Espn Premium
+http://8.242.175.210:8000/play/a0r2
+#EXTINF:-1 group-title="-",FX HD
+http://8.242.175.210:8000/play/a0q5
+#EXTINF:-1 group-title="-",France 24
+http://8.242.175.210:8000/play/a0ux
+#EXTINF:-1 group-title="-",GamaTV
+http://8.242.175.210:8000/play/a0v8
+#EXTINF:-1 group-title="-",HBO
+http://8.242.175.210:8000/play/a0qd
+#EXTINF:-1 group-title="-",HBO Family
+http://8.242.175.210:8000/play/a0uo
+#EXTINF:-1 group-title="-",HBO Plus
+http://8.242.175.210:8000/play/a0um
+#EXTINF:-1 group-title="-",HBO Xtreme HD
+http://8.242.175.210:8000/play/a0qy
+#EXTINF:-1 group-title="-",HOLA TV HD
+http://8.242.175.210:8000/play/a0pw
+#EXTINF:-1 group-title="-",History Channel
+http://8.242.175.210:8000/play/a0tw
+#EXTINF:-1 group-title="-",Home & Health HD
+http://8.242.175.210:8000/play/a0tm
+#EXTINF:-1 group-title="-",ID
+http://8.242.175.210:8000/play/a0sl
+#EXTINF:-1 group-title="-",La Red
+http://8.242.175.210:8000/play/a0uk
+#EXTINF:-1 group-title="-",Las Estrellas HD
+http://8.242.175.210:8000/play/a0qu
+#EXTINF:-1 group-title="-",Latina
+http://8.242.175.210:8000/play/a0v1
+#EXTINF:-1 group-title="-",Lifetime
+http://8.242.175.210:8000/play/a0u8
+#EXTINF:-1 group-title="-",MEGA HD
+http://8.242.175.210:8000/play/a0qn
+#EXTINF:-1 group-title="-",MTV
+http://8.242.175.210:8000/play/a0tz
+#EXTINF:-1 group-title="-",MTV HD
+http://8.242.175.210:8000/play/a0nc
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://8.242.175.210:8000/play/a0pt
+#EXTINF:-1 group-title="-",Nickelodeon HD
+http://8.242.175.210:8000/play/a0qm
+#EXTINF:-1 group-title="-",Panamericana TV
+http://8.242.175.210:8000/play/a0so
+#EXTINF:-1 group-title="-",Pasiones HD
+http://8.242.175.210:8000/play/a0qh
+#EXTINF:-1 group-title="-",RCN Novelas
+http://8.242.175.210:8000/play/a0sk
+#EXTINF:-1 group-title="-",STAR Channel
+http://8.242.175.210:8000/play/a0u1
+#EXTINF:-1 group-title="-",Sin Limites
+http://8.242.175.210:8000/play/a0v6
+#EXTINF:-1 group-title="-",Space HD
+http://8.242.175.210:8000/play/a0q2
+#EXTINF:-1 group-title="-",Sun Channel HD
+http://8.242.175.210:8000/play/a0qz
+#EXTINF:-1 group-title="-",TCM
+http://8.242.175.210:8000/play/a0u2
+#EXTINF:-1 group-title="-",TLC
+http://8.242.175.210:8000/play/a0t3
+#EXTINF:-1 group-title="-",TNT
+http://8.242.175.210:8000/play/a0u4
+#EXTINF:-1 group-title="-",TNT Novelas HD
+http://8.242.175.210:8000/play/a0na
+#EXTINF:-1 group-title="-",TNT SPORTS
+http://8.242.175.210:8000/play/a0mo
+#EXTINF:-1 group-title="-",TNT Sports Premium SD
+http://8.242.175.210:8000/play/a0q9
+#EXTINF:-1 group-title="-",TRO
+http://8.242.175.210:8000/play/a0sh
+#EXTINF:-1 group-title="-",TV Peru SD
+http://8.242.175.210:8000/play/a0v5
+#EXTINF:-1 group-title="-",TV+
+http://8.242.175.210:8000/play/a0qo
+#EXTINF:-1 group-title="-",TVE
+http://8.242.175.210:8000/play/a0u6
+#EXTINF:-1 group-title="-",Telemundo
+http://8.242.175.210:8000/play/a0uh
+#EXTINF:-1 group-title="-",Tlnovelas
+http://8.242.175.210:8000/play/a0vj
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+http://8.242.175.210:8000/play/a0mw
+#EXTINF:-1 group-title="-",Universal
+http://8.242.175.210:8000/play/a0ty
+#EXTINF:-1 group-title="-",Universal Cinema SD
+http://8.242.175.210:8000/play/a0ur
+#EXTINF:-1 group-title="-",Universal Comedy SD
+http://8.242.175.210:8000/play/a0us
+#EXTINF:-1 group-title="-",Universal Premiere SD
+http://8.242.175.210:8000/play/a0uq
+#EXTINF:-1 group-title="-",ViaX
+http://8.242.175.210:8000/play/a0t4
+#EXTINF:-1 group-title="-",Warner
+http://8.242.175.210:8000/play/a0sz
+#EXTINF:-1 group-title="-",Warner TV HD
+http://8.242.175.210:8000/play/a0pz
+#EXTINF:-1 group-title="-",Willax
+http://8.242.175.210:8000/play/a0uz
+#EXTINF:-1 group-title="-",Win Sports+ HD
+http://8.242.175.210:8000/play/a0uu
+#EXTINF:-1 group-title="-",Zona Latina
+http://8.242.175.210:8000/play/a0u0
+#EXTINF:-1 group-title="-",Zoom
+http://8.242.175.210:8000/play/a0sg
