@@ -21,8 +21,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/chunks.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/chunks.m3u8
 #EXTINF:-1,Genio tv
 https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
-#EXTINF:-1,peke kids
-https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
+#EXTINF:-1,mitos tv
+https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/chunks.m3u8
 #EXTINF:-1,delta tv
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 #EXTINF:-1,sol tv
