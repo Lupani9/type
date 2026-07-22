@@ -15,8 +15,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_360p/chunk
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1,latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/chunks.m3u8
-#EXTINF:-1,la tele
-https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8 
+#EXTINF:-1,alpha tv
+https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/chunks.m3u8 
 #EXTINF:-1,pbo
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
 #EXTINF:-1,RIBEREÑA
@@ -27,10 +27,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_360p/chunks.m3u8
 #EXTINF:-1,sol tv
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
-#EXTINF:-1,super canal
-https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
 #EXTINF:-1,Ucayalina tv
-https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
+#EXTINF:-1,super canal
+https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1,television 49
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/chunks.m3u8
 #EXTINF:-1,tv peru
