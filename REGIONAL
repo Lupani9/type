@@ -73,10 +73,30 @@ http://8.242.175.210:8000/play/a0vg
 http://8.242.175.210:8000/play/a0n2
 #EXTINF:-1 group-title="-",ATV
 http://8.242.175.210:8000/play/a0sp
+#EXTINF:-1 group-title="-",ATV
+http://181.119.93.83:8000/play/a27c/index.m3u8
+#EXTINF:-1 group-title="-",ATV FHD
+http://181.119.93.83:8000/play/a25f/index.m3u8
+#EXTINF:-1 group-title="-",ATV PLUS FHD 
+http://181.119.93.83:8000/play/a25g/index.m3u8
+#EXTINF:-1 group-title="-",ATV SD
+http://181.119.93.83:8000/play/a1tm/index.m3u8
+#EXTINF:-1 group-title="-",ATV SUR FHD
+http://181.119.93.83:8000/play/a25j/index.m3u8
 #EXTINF:-1 group-title="-",AXN HD
 http://8.242.175.210:8000/play/a0q0
+#EXTINF:-1 group-title="-",America TV
+http://181.119.93.83:8000/play/a27a/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+http://181.119.93.83:8000/play/a265/index.m3u8
+#EXTINF:-1 group-title="-",America TV PY
+http://181.119.93.83:8000/play/a27g/index.m3u8
 #EXTINF:-1 group-title="-",America TV PY
 http://8.242.175.210:8000/play/a0v7
+#EXTINF:-1 group-title="-",AMERICA FHD
+http://181.119.93.83:8000/play/a25s/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://181.119.93.83:8000/play/a27c/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet
 http://8.242.175.210:8000/play/a0uc
 #EXTINF:-1 group-title="-",BETHEL TV
@@ -85,8 +105,12 @@ http://8.242.175.210:8000/play/a0pn
 http://8.242.175.210:8000/play/a0u7
 #EXTINF:-1 group-title="-",CHV
 http://8.242.175.210:8000/play/a0ul
+#EXTINF:-1 group-title="-",13 C SD
+http://181.119.93.83:8000/play/a1no/index.m3u8
 #EXTINF:-1 group-title="-",CNN Espanol
 http://8.242.175.210:8000/play/a0uj
+#EXTINF:-1 group-title="-",Canal N SD
+http://181.119.93.83:8000/play/a21n/index.m3u8
 #EXTINF:-1 group-title="-",Canal 13 
 http://8.242.175.210:8000/play/a0n4
 #EXTINF:-1 group-title="-",Canal 24 Horas
@@ -101,6 +125,8 @@ http://8.242.175.210:8000/play/a0sc
 http://8.242.175.210:8000/play/a0q8
 #EXTINF:-1 group-title="-",Canal del Congreso
 http://8.242.175.210:8000/play/a0se
+#EXTINF:-1 group-title="-",CCTV-CGTN SD
+http://181.119.93.83:8000/play/a1sf/index.m3u8
 #EXTINF:-1 group-title="-",Capital
 http://8.242.175.210:8000/play/a0sj
 #EXTINF:-1 group-title="-",Cartoon Network HD
