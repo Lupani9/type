@@ -5,22 +5,22 @@ https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=14711183
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,trivu
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
-#EXTINF:-1,creo latina tv
-https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=3894833
-#EXTINF:-1,CREO
-https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
-#EXTINF:-1,exitosa
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_360p/chunks.m3u8 
-#EXTINF:-1,karibeña
-https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
-#EXTINF:-1,latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/chunks.m3u8
+#EXTINF:-1, R selva tv
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cusco tv
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+#EXTINF:-1,cable Perú tv
+ https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1,Asiris tv
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1,NEON tv
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8
 #EXTINF:-1,alpha tv
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/chunks.m3u8
-#EXTINF:-1,pbo
-https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
-#EXTINF:-1,RIBEREÑA
-https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
+#EXTINF:-1,Charapa tv
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/chunks.m3u8
+#EXTINF:-1,Genio tv
+https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
 #EXTINF:-1,peke kids
 https://live-evg25.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
 #EXTINF:-1,willax
@@ -39,8 +39,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_480p/chunks.
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
 #EXTINF:-1,BNB pucallpa
 https://live-evg25.tv360.bitel.com.pe/bitel/bnb/chunks.m3u8
-#EXTINF:-1,Antares Televisión 
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,Televisión tarapoto
+https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1,VIA
 https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
 #EXTINF:-1,CONECTADOS
@@ -57,142 +57,10 @@ https://live-evg5.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=3894833
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=5175710
 #EXTINF:-1,ANIME ONEGAI
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_360p/chunks.m3u8
-#EXTINF:-1,FMH kids
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/chunks.m3u8
+#EXTINF:-1,Cosmo tv
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1,FMH movie
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/chunks.m3u8
-#EXTINF:-1,HOY PERU TV
-https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+#EXTINF:-1,visión sur
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
-CNN
-HLS
-http://131.196.103.111:8089/CNN/index.m3u8
-CNN
-MPEGTS
-http://131.196.103.111:8089/CNN/mpegts
-SONY
-HLS
-http://131.196.103.111:8089/SONY/index.m3u8
-SONY
-MPEGTS
-http://131.196.103.111:8089/SONY/mpegts
-WARNER
-HLS
-http://131.196.103.111:8089/WARNER/index.m3u8
-WARNER
-MPEGTS
-http://131.196.103.111:8089/WARNER/mpegts
-AXN
-MPEGTS
-http://131.196.103.111:8089/AXN/mpegts
-AXN
-HLS
-http://131.196.103.111:8089/AXN/index.m3u8
-TNT
-HLS
-http://131.196.103.111:8089/TNT/index.m3u8
-TNT
-MPEGTS
-http://131.196.103.111:8089/TNT/mpegts
-TNTSERIES
-MPEGTS
-http://131.196.103.111:8089/TNTSERIES/mpegts
-TNTSERIES
-HLS
-http://131.196.103.111:8089/TNTSERIES/index.m3u8
-SPACE
-MPEGTS
-http://131.196.103.111:8089/SPACE/mpegts
-SPACE
-HLS
-http://131.196.103.111:8089/SPACE/index.m3u8
-DISCOVERYCHANNEL
-HLS
-http://131.196.103.111:8089/DISCOVERYCHANNEL/index.m3u8
-DISCOVERYCHANNEL
-MPEGTS
-http://131.196.103.111:8089/DISCOVERYCHANNEL/mpegts
-DISCOVERYTURBO
-HLS
-http://131.196.103.111:8089/DISCOVERYTURBO/index.m3u8
-DISCOVERYTURBO
-MPEGTS
-http://131.196.103.111:8089/DISCOVERYTURBO/mpegts
-DISCOVERYWORLD
-MPEGTS
-http://131.196.103.111:8089/DISCOVERYWORLD/mpegts
-DISCOVERYWORLD
-HLS
-http://131.196.103.111:8089/DISCOVERYWORLD/index.m3u8
-TLC
-MPEGTS
-http://131.196.103.111:8089/TLC/mpegts
-TLC
-HLS
-http://131.196.103.111:8089/TLC/index.m3u8
-HGTV
-HLS
-http://131.196.103.111:8089/HGTV/index.m3u8
-HGTV
-MPEGTS
-http://131.196.103.111:8089/HGTV/mpegts
-HISTORY
-HLS
-http://131.196.103.111:8089/HISTORY/index.m3u8
-HISTORY
-MPEGTS
-http://131.196.103.111:8089/HISTORY/mpegts
-CARTOONNETWORK
-HLS
-http://131.196.103.111:8089/CARTOONNETWORK/index.m3u8
-CARTOONNETWORK
-MPEGTS
-http://131.196.103.111:8089/CARTOONNETWORK/mpegts
-CARTOONITO
-HLS
-http://131.196.103.111:8089/CARTOONITO/index.m3u8
-CARTOONITO
-MPEGTS
-http://131.196.103.111:8089/CARTOONITO/mpegts
-DISCOVERYKIDS
-HLS
-http://131.196.103.111:8089/DISCOVERYKIDS/index.m3u8
-DISCOVERYKIDS
-MPEGTS
-http://131.196.103.111:8089/DISCOVERYKIDS/mpegts
-NICKJR
-HLS
-http://131.196.103.111:8089/NICKJR/index.m3u8
-NICKJR
-MPEGTS
-http://131.196.103.111:8089/NICKJR/mpegts
-TOONCAST
-HLS
-http://131.196.103.111:8089/TOONCAST/index.m3u8
-TOONCAST
-MPEGTS
-http://131.196.103.111:8089/TOONCAST/mpegts
-ESPN
-MPEGTS
-http://131.196.103.111:8089/ESPN/mpegts
-ESPN
-HLS
-http://131.196.103.111:8089/ESPN/index.m3u8
-ESPN4
-HLS
-http://131.196.103.111:8089/ESPN4/index.m3u8
-ESPN4
-MPEGTS
-http://131.196.103.111:8089/ESPN4/mpegts
-ESPN5
-MPEGTS
-http://131.196.103.111:8089/ESPN5/mpegts
-ESPN5
-HLS
-http://131.196.103.111:8089/ESPN5/index.m3u8
-BANDSPORTS
-MPEGTS
-http://131.196.103.111:8089/BANDSPORTS/mpegts
-BANDSPORTS
-HLS
-http://131.196.103.111:8089/BANDSPORTS/index.m3u8
