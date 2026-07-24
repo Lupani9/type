@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Anime kids
 https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=14711183
+
+#EXTINF:-1,Antares tv
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1528067575.m3u8
 #EXTINF:-1,Autentica Televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,trivu
