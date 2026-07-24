@@ -15,7 +15,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,NEON tv
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8
-#EXTINF:-1,alpha tv
+#EXTINF:-1,BNB tv
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/chunks.m3u8
 #EXTINF:-1,Charapa tv
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/chunks.m3u8
@@ -25,20 +25,20 @@ https://sc3.wasidata.com/Genios2_1902/tracks-v1a1/mono.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/chunks.m3u8
 #EXTINF:-1,delta tv
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-#EXTINF:-1,sol tv
-https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
+#EXTINF:-1,wtv
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8
 #EXTINF:-1,Ucayalina tv
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/chunks.m3u8
 #EXTINF:-1,super canal
 https://live.obslivestream.com/supercanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1,television 49
-https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/chunks.m3u8
+#EXTINF:-1,Región tv
+https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1,tv peru
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_480p/chunks.m3u8
 #EXTINF:-1,pucallpa canal ya
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
-#EXTINF:-1,BNB pucallpa
-https://live-evg25.tv360.bitel.com.pe/bitel/bnb/chunks.m3u8
+#EXTINF:-1,Congreso tv
+https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1,Televisión tarapoto
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1,VIA
@@ -47,12 +47,12 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/conectado2/chunks.m3u8
 #EXTINF:-1,NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1,AMAZONICA TV
+#EXTINF:-1,AMAZONICA tv
 https.com.pe/bitel/amazonicatvSR
-#EXTINF:-1,tacna tv
-https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
-#EXTINF:-1,nzk tv
-https://eu1.servers10.com:8081/8258/tracks-v1a1/mono.m3u8
+#EXTINF:-1,contorvertida
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,televisión sur
+https://live-evg11.tv360.bitel.com.pe pe/bitel/tevesurSRT/chunks.m3u8
 #EXTINF:-1,NEON tv
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/chunks.m3u8?uid=5175710
 #EXTINF:-1,ABT television
