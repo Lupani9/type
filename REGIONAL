@@ -47,8 +47,8 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/conectado2/chunks.m3u8
 #EXTINF:-1,NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1,AMAZONICA tv
-https.com.pe/bitel/amazonicatvSR
+#EXTINF:-1,mega jaen tv
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1,contorvertida
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,televisión sur
@@ -63,5 +63,10 @@ https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,visión sur
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1,master tv
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8
+
+#EXTINF:-1,doble cc
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8
 
 
