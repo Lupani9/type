@@ -226,10 +226,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
-http://45.4.1.201:8000/play/a13e/index.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe@SD",Movistar Plus (576p)
-http://45.4.1.201:8000/play/a19y/index.m3u8
+
 #EXTINF:-1 tvg-id="NacionalTvPeru.pe@SD",Nacional Tv Peru (720p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NacionalTvPeru.pe@SD",Nacional Tv Peru (720p)
@@ -477,3 +474,11 @@ https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WEST.pe@SD",WEST (1080p)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten españa" 
+https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten comedia espana" 
+https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten drama españa" 
+https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten movoe espana" 
+https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
