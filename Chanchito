@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/kqz0SM0/descarga-3.png" group-title="Pelicula",A&E
-http://206.62.161.243:8000/play/AE
+#EXTINF:-1 tvg-id="DTV" tvg-name="DTV" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-title="Pelicula",A&E
+http://38.137.192.250:8000/play/a0c9
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/8685W2J/images-1.png" group-title="Pelicula",AMC
 http://206.62.161.243:8000/play/AMC
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HrHdMcy/images-1.jpg" group-title="Pelicula",AXN
