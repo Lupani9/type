@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DTV" tvg-name="DTV" tvg-logo="https://i.ibb.co/fGM0shSH/images.png" group-title="Pelicula",A&E
 http://38.137.192.250:8000/play/a0c9
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/8685W2J/images-1.png" group-title="Pelicula",AMC
-http://206.62.161.243:8000/play/AMC
+#EXTINF:-1 tvg-id="SKy" tvg-name="SKY" tvg-logo="https://i.ibb.co/8685W2J/images-1.png" group-title="Pelicula",AMC
+http://45.5.118.152:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HrHdMcy/images-1.jpg" group-title="Pelicula",AXN
 http://206.62.161.243:8000/play/AXN
 #EXTINF:-1 tvg-id="A3Series" tvg-name="A3 Series" tvg-logo="https://i.ibb.co/DtLH8hK/descarga-1.png" group-title="Entretenimiento",A3 Series
